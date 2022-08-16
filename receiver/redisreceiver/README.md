@@ -12,6 +12,8 @@ configurable interval.
 
 ## Details
 
+This is a [hover text](## "your hover text") example.
+
 The Redis INFO command returns information and statistics about a Redis
 server (see [https://redis.io/commands/info](https://redis.io/commands/info) for
 details). The Redis receiver extracts values from the result and converts them to open
